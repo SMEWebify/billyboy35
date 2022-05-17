@@ -2,12 +2,15 @@
 <h3 align="center">A passionate developer from France</h3>
 
 - 🔭 I’m currently working on [WEM](https://github.com/billyboy35/WebErpMesv2)
-
 - 🌱 I’m currently learning **Laravel**
-
 - 👯 I’m looking to collaborate on [WEM](https://github.com/billyboy35/WebErpMesv2)
-
 - 🤝 I’m looking for help with [WEM](https://github.com/billyboy35/WebErpMesv2)
+
+<p align="center">- - - </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=billyboy35&show_icons=true&theme=chartreuse-dark)
+
+<p align="center">- - - </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
